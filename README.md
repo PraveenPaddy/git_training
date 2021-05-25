@@ -16,3 +16,8 @@
     - 'git diff --staged' : gives difference in staging area
 - '.gitignore': file that pattern matches files to gitignore
 - '.gitkeep' : convetion to keep a empty folder
+## remotes
+
+- 'git remote add <NAME> <URL>' : <NAME=origin> point to the remote URL
+- 'git push <WHERE> <WHAT>' : local repo --> to remote
+- 'git pull <WHERE> <WHAT>' : Remote repo --> to local
