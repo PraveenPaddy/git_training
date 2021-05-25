@@ -6,3 +6,4 @@
 - 'git commit':  commits files from stating
   - 'git commit -m "MESSAGE"': commit without opening editor
 - 'git log' : gives the log of the git repositorty
+- 'git diff' : gives you the difference 
